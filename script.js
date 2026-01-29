@@ -34,7 +34,7 @@ chatimg.addEventListener("click",()=>{
     }
 })
 
-let Api_url="https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyBAxRl5B2Dl6HvCMmjI-UrEN_bkzWmE5eI"
+let Api_url="https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=YOUR_API_KEY"
 
 async function generateApiResponse(aiChatBox) {
     const textElement=aiChatBox.querySelector(".text")
