@@ -42,3 +42,6 @@
 ## Author
 
 Developed by: Mousume Barick
+
+- Demo : https://mousume6297.github.io/Fitness_Hub/
+- Email : mousumebarick@gmail.com
