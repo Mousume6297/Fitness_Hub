@@ -45,3 +45,11 @@ Developed by: Mousume Barick
 
 - Demo : https://mousume6297.github.io/Fitness_Hub/
 - Email : mousumebarick@gmail.com
+
+## Note about Chatbot Feature
+
+The AI chatbot included in this project requires a private API key to function.
+
+For security reasons, the API key is not included in the public GitHub repository. Because of this, the chatbot may not work in the live demo hosted on GitHub Pages.
+
+However, the chatbot works correctly in the local development environment when the API key is configured.
